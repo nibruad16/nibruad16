@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nibru</h1>
-<h3 align="center">A Passionate Full Stack Web developer and Competitive Programmer from Ethiopia.</h3>
+<h3 align="center">A passionate and creative Full Stack Web Developer and Competitive Programmer from Ethiopia..</h3>
 
 - 🌱 I’m currently learning **MERN stack Technology**
 
